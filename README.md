@@ -1,6 +1,9 @@
 # video-wise
 Design prototype for an empathy forward video conferencing app for elderly individuals.
 
+![image](https://user-images.githubusercontent.com/41638801/144935588-26b9ec87-8bdc-47c0-be04-87a4b884e0ee.png)
+
+
 # About
 This is the prototype for an HCI term project. The prototype can be viewed in full on Framer [here](https://framer.com/share/HCI-SeniorityRules--fdAZXlsUB2xx3LVe5InI/fuZKrZXQC).
 
@@ -12,6 +15,9 @@ This is a video conferencing application for elderly individuals that seeks to m
 3. Emotions should be understandable to the user.
 4. Users should feel a sense of connection, community, or family by using the system.
 5. The system should not require the use of a dedicated device (the system should be able to run on any type of device as long as there is at least a microphone).
+
+![image](https://user-images.githubusercontent.com/41638801/144934843-7ff3b09b-1ba7-4cb1-b6df-ef6a323c1752.png)
+
 
 # Usability Heursitics
 The following were identified as the most critical heursitics to achieve in the design. Several are taken from Nielson's sources and are attributed as such:
@@ -28,3 +34,5 @@ The following were identified as the most critical heursitics to achieve in the 
     - We feel that including too many options to the system will have an inverse effect in that users will not be able to use any of them due to confusion. As such, we intend to only include those which are absolutely necesary.
 6. Clearly describable
     - We believe that it is important that users be able to explain problems to troubleshooters. As such, icons should be clear and describable -  especially when errors arise - to allow troubleshooters to help fix problems.
+
+
